@@ -1,0 +1,13 @@
+wordclou=1.5
+matplotlib 
+pandas 
+numpy 
+streamlit 
+nltk
+transformers
+
+textmining3
+vaderSentiment
+wordcloud
+required
+textblob
