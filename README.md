@@ -6,10 +6,8 @@ conda + visual studio + github
 #### conda 설치 시 주의점 
 conda + visual studio로 설치해서 진행 
 conda 설치 시에 conda init을 해야 시작됨. 
-
 conda 설치 후에 visual studio 에서 작업하려면 ctrl+shift+p 를 누르면 visual studio의 인터프리터 설정을 할 수 있는 칸이 나옴
-해당 내용을 conda python위치로 설정한다. 
-
+해당 내용을 conda python위치로 설정한다. (기존에 파이썬 path가 있는 경우 설치가 안될 수도 있으니, python path를 삭제하고 아나콘다 실행하니 되네요... ㅜㅜ) 
 
 
 
