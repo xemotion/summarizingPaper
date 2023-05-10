@@ -29,7 +29,12 @@ conda activate streamlit
 
 ```
 pip isntall streamtlit 
+streamlit hello 
 ```
 
+서버 띄우기 
+```
+streamlit run app.py 
+``` 
  
 
